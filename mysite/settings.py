@@ -25,7 +25,7 @@ SECRET_KEY = 'af_@k6hxyq1rqkbem7+=0cb)8*b#fbo!47@d8(!$fb9u1w+1e_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ficodindia89.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
